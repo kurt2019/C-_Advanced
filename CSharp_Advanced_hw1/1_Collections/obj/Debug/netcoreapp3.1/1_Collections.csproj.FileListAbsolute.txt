@@ -1,0 +1,13 @@
+C:\Users\Kurt\Desktop\CSharp_Advanced-master\1_Collections\bin\Debug\netcoreapp3.1\1_Collections.exe
+C:\Users\Kurt\Desktop\CSharp_Advanced-master\1_Collections\bin\Debug\netcoreapp3.1\1_Collections.deps.json
+C:\Users\Kurt\Desktop\CSharp_Advanced-master\1_Collections\bin\Debug\netcoreapp3.1\1_Collections.runtimeconfig.json
+C:\Users\Kurt\Desktop\CSharp_Advanced-master\1_Collections\bin\Debug\netcoreapp3.1\1_Collections.runtimeconfig.dev.json
+C:\Users\Kurt\Desktop\CSharp_Advanced-master\1_Collections\bin\Debug\netcoreapp3.1\1_Collections.dll
+C:\Users\Kurt\Desktop\CSharp_Advanced-master\1_Collections\bin\Debug\netcoreapp3.1\1_Collections.pdb
+C:\Users\Kurt\Desktop\CSharp_Advanced-master\1_Collections\obj\Debug\netcoreapp3.1\1_Collections.csprojAssemblyReference.cache
+C:\Users\Kurt\Desktop\CSharp_Advanced-master\1_Collections\obj\Debug\netcoreapp3.1\1_Collections.csproj.CoreCompileInputs.cache
+C:\Users\Kurt\Desktop\CSharp_Advanced-master\1_Collections\obj\Debug\netcoreapp3.1\1_Collections.AssemblyInfoInputs.cache
+C:\Users\Kurt\Desktop\CSharp_Advanced-master\1_Collections\obj\Debug\netcoreapp3.1\1_Collections.AssemblyInfo.cs
+C:\Users\Kurt\Desktop\CSharp_Advanced-master\1_Collections\obj\Debug\netcoreapp3.1\1_Collections.dll
+C:\Users\Kurt\Desktop\CSharp_Advanced-master\1_Collections\obj\Debug\netcoreapp3.1\1_Collections.pdb
+C:\Users\Kurt\Desktop\CSharp_Advanced-master\1_Collections\obj\Debug\netcoreapp3.1\1_Collections.genruntimeconfig.cache
